@@ -18,7 +18,7 @@ https://github.com/SlowSoulWen/vue-music
 
 手机请扫描下方二维码预览
 
-![手机预览](http://oo917ps5l.bkt.clouddn.com/1501167847.png)
+![手机预览](http://oo917ps5l.bkt.clouddn.com/vue-music-ewm.png)
 
 PC端预览地址（只做了移动端适配，请将浏览器设置为手机预览模式）
 
