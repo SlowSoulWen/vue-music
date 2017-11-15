@@ -32,7 +32,9 @@ vue2 + vuex + vue-router  + vue-awesome-swiper + axios + webpack
 
 所有数据都来自网易云音乐，API由 [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) 提供
 
-自己在该项目基础上增加了IP代理及缓存机制，以防止网易封禁IP及减少后台的请求频率。
+~~自己在该项目基础上增加了IP代理及缓存机制，以防止网易封禁IP及减少后台的请求频率。~~
+
+该项目作者在新版本中增加了IP代理以及缓存，并且实现比我这个Node渣渣好多了，所以采用了原项目的了。
 
 # 效果演示
 
